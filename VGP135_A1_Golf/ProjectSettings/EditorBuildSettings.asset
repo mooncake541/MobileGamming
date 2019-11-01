@@ -18,9 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level2.unity
     guid: af66dc6a2b32df848ad0667545abc047
   - enabled: 1
-    path: Assets/Scenes/Level3.unity
+    path: Assets/JohnWu(423302)/Scenes/JohnWu_Level3.unity
     guid: 50891030023d24c4595b196c6b0b9d21
   - enabled: 1
-    path: Assets/Scenes/Level4.unity
+    path: Assets/JohnWu(423302)/Scenes/JohnWu_Level4.unity
     guid: fdbf835a67f789945a8e3c9de1c673cc
   m_configObjects: {}
