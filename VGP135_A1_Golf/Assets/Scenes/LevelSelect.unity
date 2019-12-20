@@ -1110,7 +1110,7 @@ PrefabInstance:
     - target: {fileID: 9195240595636901473, guid: 7f17882801be7ba4288998f02949a63f,
         type: 3}
       propertyPath: sceneName
-      value: Test Level 1
+      value: Level2
       objectReference: {fileID: 0}
     - target: {fileID: 9195240595636901473, guid: 7f17882801be7ba4288998f02949a63f,
         type: 3}
@@ -1126,11 +1126,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1209356635}
     m_Modifications:
-    - target: {fileID: 7232979585227150937, guid: ce4dc792537f80b40ad94c196b94b65a,
-        type: 3}
-      propertyPath: m_Name
-      value: ButtonHolder
-      objectReference: {fileID: 0}
     - target: {fileID: 7232979585227150936, guid: ce4dc792537f80b40ad94c196b94b65a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1235,6 +1230,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7232979585227150937, guid: ce4dc792537f80b40ad94c196b94b65a,
+        type: 3}
+      propertyPath: m_Name
+      value: ButtonHolder
       objectReference: {fileID: 0}
     - target: {fileID: 4127051947828859647, guid: ce4dc792537f80b40ad94c196b94b65a,
         type: 3}
