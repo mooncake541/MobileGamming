@@ -1,0 +1,4 @@
+Path of Golf:
+C:\Users\423302\Desktop\John\Final_Golf\VGP135_A1_Golf\SiyuanJohnWuFinal_Golf.apk
+Path of my Scene:
+C:\Users\423302\Desktop\John\Final_Golf\VGP135_A1_Golf\Assets\JohnWu(423302)\Scenes\JohnWu_Level4.unity

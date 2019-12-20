@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class CoinPickUp : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider other)
+    public GameObject coin;
+    
+
+    private void OnTriggerEnter(Collider collision)
     {
-        if(other.CompareTag("Ball"))
-        {
-            Destroy(gameObject);
-        }
+        Destroy(coin);
+        FindObjectOfType<CoinsCounter>().SetScore();
     }
 }
